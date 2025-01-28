@@ -1,0 +1,1 @@
+A Flask-based web application designed to demonstrate/test out various functionalities, such as handling routes, performing mathematical operations, and processing student data stored in the 'data.json' file.
